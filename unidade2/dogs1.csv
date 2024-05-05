@@ -1,0 +1,278 @@
+temperament,popularity,min_height,max_height,min_weight,max_weight,min_expectancy,max_expectancy,group,grooming_frequency_value,shedding_value,energy_level_value,trainability_value,demeanor_value,temperament_1,temperament_2,temperament_3
+"Confident, Famously Funny, Fearless",148.0,22.86,29.21,3.17514659,4.535923700000001,12.0,15.0,Toy Group,0.6,0.6,0.6,0.8,1.0,Confident,Famously Funny,Fearless
+"Dignified, Profoundly Loyal, Aristocratic",113.0,63.5,68.58,22.6796185,27.2155422,12.0,15.0,Hound Group,0.8,0.2,0.8,0.2,0.2,Dignified,Profoundly Loyal,Aristocratic
+"Friendly, Clever, Courageous",60.0,58.42,58.42,22.6796185,31.751465900000003,11.0,14.0,Terrier Group,0.6,0.4,0.6,1.0,0.8,Friendly,Clever,Courageous
+"Courageous, Dignified, Profoundly Loyal",47.0,60.96,71.12,31.751465900000003,58.9670081,10.0,13.0,Working Group,0.8,0.6,0.8,1.0,0.6,Courageous,Dignified,Profoundly Loyal
+"Affectionate, Loyal, Playful",58.0,58.42,63.5,34.01942775,38.55535145,10.0,14.0,Working Group,0.6,0.6,0.8,0.4,0.8,Affectionate,Loyal,Playful
+"Loyal, Self-Confident",96.0,50.8,63.5,27.2155422,45.359237,10.0,12.0,Foundation Stock Service,0.2,0.6,0.8,0.6,0.6,Loyal,Self-Confident,Unknown
+"Sweet, Mellow, Sociable",175.0,58.42,66.04,20.41165665,29.48350405,11.0,12.0,Hound Group,0.2,0.4,0.8,0.6,0.6,Sweet,Mellow,Sociable
+"Playful, Perky, Smart",122.0,22.86,48.26,2.72155422,15.875732950000002,13.0,15.0,Non-Sporting Group,0.4,0.6,0.8,1.0,1.0,Playful,Perky,Smart
+"Independent, Easy-Going, Sweet-Tempered",186.0,53.34,63.5,27.2155422,31.751465900000003,11.0,13.0,Hound Group,0.2,0.6,0.8,0.4,0.8,Independent,Easy-Going,Sweet-Tempered
+"Energetic, Alert, Curious",136.0,30.48,40.64,5.4431084400000005,7.25747792,14.0,16.0,Terrier Group,0.4,0.4,0.6,0.6,0.6,Energetic,Alert,Curious
+"Sociable, Energetic, Intelligent",96.0,53.34,68.58,20.41165665,31.751465900000003,12.0,15.0,Foundation Stock Service,0.4,0.6,0.8,1.0,0.6,Sociable,Energetic,Intelligent
+"Confident, Smart, Good-Natured",85.0,43.18,48.26,18.1436948,31.751465900000003,12.0,16.0,Terrier Group,0.2,0.4,0.6,0.6,0.6,Confident,Smart,Good-Natured
+"Eager, Happy, Charming",166.0,38.1,45.72,11.33980925,20.41165665,10.0,14.0,Sporting Group,0.6,0.2,0.6,1.0,0.8,Eager,Happy,Charming
+"Loyal, Independent, Reserved",90.0,68.58,73.66,36.2873896,68.0388555,11.0,13.0,Working Group,0.4,0.6,0.6,0.4,0.4,Loyal,Independent,Reserved
+"Agile, Versatile, Lively",96.0,48.26,55.88,21.77243376,31.751465900000003,12.0,15.0,Foundation Stock Service,0.4,0.8,1.0,0.2,0.4,Agile,Versatile,Lively
+"Alert, Curious, Pleasant",55.0,43.18,50.8,15.875732950000002,22.6796185,12.0,16.0,Herding Group,0.2,0.8,1.0,0.2,0.4,Alert,Curious,Pleasant
+"Loyal, Alert, Intelligent",96.0,43.18,50.8,18.1436948,27.2155422,10.0,13.0,Foundation Stock Service,0.4,0.8,0.8,1.0,0.6,Loyal,Alert,Intelligent
+"Smart, Work-Oriented, Exuberant",17.0,45.72,58.42,18.1436948,29.48350405,12.0,15.0,Herding Group,0.4,0.6,0.8,1.0,0.6,Smart,Work-Oriented,Exuberant
+"Alert, Trainable, Comical",96.0,43.18,50.8,14.51495584,20.41165665,12.0,15.0,Foundation Stock Service,0.4,0.4,0.8,0.8,0.6,Alert,Trainable,Comical
+"Affectionate, Courageous, Spirited",140.0,25.4,27.94,6.80388555,9.0718474,11.0,15.0,Terrier Group,0.4,0.2,0.8,0.6,0.8,Affectionate,Courageous,Spirited
+"Loyal, Independent, Deeply Affectionate",96.0,59.69,73.66,14.968548210000002,24.947580350000003,12.0,15.0,Hound Group,0.4,0.4,0.6,0.4,0.8,Loyal,Independent,Deeply Affectionate
+"Friendly, Bright, Sweet-Natured",96.0,48.26,62.23,15.875732950000002,29.48350405,12.0,14.0,Sporting Group,0.4,0.2,0.6,0.6,0.8,Friendly,Bright,Sweet-Natured
+"Independent, Smart, Poised",87.0,40.64,43.18,9.97903214,10.88621688,13.0,14.0,Hound Group,0.2,0.4,0.8,0.4,0.4,Independent,Smart,Poised
+"Smart, Cheerful, Determined",96.0,31.75,39.37,12.24699399,15.875732950000002,12.0,12.0,Foundation Stock Service,0.4,0.6,0.6,0.2,1.0,Smart,Cheerful,Determined
+"Charming, Patient, Low-Key",39.0,38.1,38.1,18.1436948,29.48350405,12.0,13.0,Hound Group,0.6,0.4,0.2,0.4,0.8,Charming,Patient,Low-Key
+"Loyal, Versatile, Reserved with Strangers",96.0,43.18,52.07,16.78291769,29.937096420000003,12.0,15.0,Foundation Stock Service,0.4,0.8,0.6,0.6,0.4,Loyal,Versatile,Reserved with Strangers
+"Friendly, Curious, Merry",6.0,33.02,38.1,5.8967008100000005,13.6077711,10.0,15.0,Hound Group,0.6,0.6,0.8,0.6,0.8,Friendly,Curious,Merry
+"Smart, Bouncy, Charismatic",127.0,50.8,55.88,20.41165665,24.947580350000003,12.0,14.0,Herding Group,0.8,0.6,0.6,0.4,1.0,Smart,Bouncy,Charismatic
+"Gentle, Faithful, Obedient",124.0,60.96,69.85,31.751465900000003,49.895160700000005,10.0,12.0,Herding Group,0.6,1.0,1.0,0.8,0.4,Gentle,Faithful,Obedient
+"Loyal, Charming, Frollicking",141.0,38.1,44.45,7.71107029,10.43262451,11.0,16.0,Terrier Group,0.6,0.4,0.8,0.6,0.6,Loyal,Charming,Frollicking
+"Affectionate, Alert, Intelligent",96.0,55.88,66.04,24.947580350000003,29.48350405,10.0,12.0,Miscellaneous Class,0.4,0.8,0.8,0.8,0.4,Affectionate,Alert,Intelligent
+"Confident, Smart, Hardworking",43.0,55.88,66.04,18.1436948,36.2873896,14.0,16.0,Herding Group,0.4,0.6,0.8,0.8,0.4,Confident,Smart,Hardworking
+"Bright, Watchful, Serious-Minded",125.0,55.88,66.04,20.41165665,34.01942775,12.0,14.0,Herding Group,0.6,0.6,0.8,0.8,0.4,Bright,Watchful,Serious-Minded
+"Courageous, Alert, Intelligent",106.0,55.88,66.04,20.41165665,34.01942775,12.0,14.0,Herding Group,0.6,0.6,0.8,0.8,0.4,Courageous,Alert,Intelligent
+"Independent, Sociable, Intelligent",187.0,55.88,59.69,25.85476509,38.10175908,13.0,15.0,Herding Group,0.2,0.2,0.4,0.6,0.4,Independent,Sociable,Intelligent
+"Loyal, Good-Natured, Observant",144.0,54.61,64.77,22.6796185,31.751465900000003,12.0,13.0,Herding Group,0.2,0.6,1.0,0.8,0.6,Loyal,Good-Natured,Observant
+"Good-Natured, Calm, Strong",22.0,58.42,69.85,31.751465900000003,52.16312255,7.0,10.0,Working Group,0.6,1.0,0.8,0.8,0.4,Good-Natured,Calm,Strong
+"Playful, Curious, Peppy",46.0,24.13,29.21,5.4431084400000005,8.164662660000001,14.0,15.0,Non-Sporting Group,1.0,0.2,0.6,0.6,1.0,Playful,Curious,Peppy
+"Intelligent, Devoted, Amusing",96.0,17.78,27.94,1.81436948,3.62873896,16.0,16.0,Miscellaneous Class,0.6,0.6,0.4,1.0,1.0,Intelligent,Devoted,Amusing
+"Easy-Going, Bright, Brave",138.0,58.42,68.58,29.48350405,49.895160700000005,10.0,12.0,Hound Group,0.4,0.6,0.6,0.4,0.8,Easy-Going,Bright,Brave
+"Intelligent, Calm, Powerful",118.0,66.04,76.2,36.2873896,58.9670081,10.0,12.0,Working Group,0.8,0.6,0.8,0.8,0.4,Intelligent,Calm,Powerful
+"Friendly, Independent, Inquisitive",49.0,58.42,68.58,36.2873896,49.895160700000005,10.0,12.0,Hound Group,0.4,0.6,0.6,0.4,0.6,Friendly,Independent,Inquisitive
+"Smart, Devoted, Tenacious",130.0,53.34,68.58,20.41165665,36.2873896,11.0,12.0,Hound Group,0.4,0.6,0.8,0.6,0.8,Smart,Devoted,Tenacious
+"Confident, Intelligent, Calm",121.0,55.88,68.58,68.0388555,90.718474,9.0,11.0,Working Group,0.2,0.4,0.4,0.6,0.4,Confident,Intelligent,Calm
+"Friendly, Devoted, Alert and Intelligent",96.0,49.022000000000006,55.118,16.78291769,27.2155422,12.0,15.0,Foundation Stock Service,0.2,0.4,0.6,0.8,0.6,Friendly,Devoted,Alert and Intelligent
+"Playful, Easy-Going, Devoted",96.0,25.4,30.48,2.4947580350000003,4.082331330000001,12.0,14.0,Foundation Stock Service,0.6,0.2,0.4,0.6,0.8,Playful,Easy-Going,Devoted
+"Affectionate, Smart, Energetic",35.0,45.72,55.88,13.6077711,24.947580350000003,12.0,15.0,Herding Group,0.6,0.6,1.0,1.0,0.4,Affectionate,Smart,Energetic
+"Affectionate, Happy, Plucky",88.0,30.48,38.1,5.216312255,7.030681735,12.0,15.0,Terrier Group,0.4,0.4,0.6,0.8,0.8,Affectionate,Happy,Plucky
+"Affectionate, Loyal, Regally Dignified",103.0,66.04,71.12,27.2155422,47.62719885,9.0,14.0,Hound Group,0.4,0.6,0.8,0.4,0.6,Affectionate,Loyal,Regally Dignified
+"Friendly, Bright, Amusing",21.0,38.1,43.18,5.4431084400000005,11.33980925,11.0,13.0,Non-Sporting Group,0.4,0.2,0.6,1.0,1.0,Friendly,Bright,Amusing
+"Affectionate, Courageous, Strong-Willed",84.0,59.69,69.85,31.751465900000003,49.895160700000005,10.0,12.0,Herding Group,0.8,0.6,0.8,0.6,0.6,Affectionate,Courageous,Strong-Willed
+"Bright, Fun-Loving, Active",11.0,54.61,63.5,6.80388555,36.2873896,10.0,12.0,Working Group,0.4,0.4,0.8,0.8,1.0,Bright,Fun-Loving,Active
+"Friendly, Eager, Lovable",100.0,35.56,45.72,11.33980925,18.1436948,10.0,15.0,Sporting Group,0.6,0.6,0.6,1.0,0.6,Friendly,Eager,Lovable
+"Affectionate, Intelligent, Enthusiastic",96.0,53.34,68.58,24.947580350000003,40.8233133,10.0,14.0,Miscellaneous Class,0.2,0.4,0.8,0.8,0.6,Affectionate,Intelligent,Enthusiastic
+"Affectionate, Adaptable, Gentle",96.0,48.26,57.15,15.875732950000002,24.04039561,10.0,12.0,Foundation Stock Service,0.2,0.6,0.6,1.0,0.6,Affectionate,Adaptable,Gentle
+"Friendly, Smart, Willing to Please",96.0,46.99,58.42,18.1436948,24.947580350000003,12.0,14.0,Foundation Stock Service,0.2,0.6,1.0,0.6,0.4,Friendly,Smart,Willing to Please
+"Confident, Smart, Faithful",132.0,55.88,68.58,24.947580350000003,45.359237,12.0,12.0,Herding Group,0.8,0.2,0.6,0.4,0.4,Confident,Smart,Faithful
+"Bright, Fun-Loving, Upbeat",26.0,44.45,52.07,13.6077711,18.1436948,12.0,14.0,Sporting Group,0.6,0.6,1.0,1.0,0.8,Bright,Fun-Loving,Upbeat
+"Friendly, Watchful, Loving",96.0,69.85,74.93,40.8233133,68.0388555,8.0,10.0,Foundation Stock Service,0.2,0.6,0.4,0.6,0.4,Friendly,Watchful,Loving
+"Loyal, Alert, Curious",98.0,17.78,25.4,3.62873896,4.535923700000001,12.0,15.0,Toy Group,0.6,0.6,0.6,0.6,0.8,Loyal,Alert,Curious
+"Playful, Charming, Mischievous",62.0,53.34,55.88,22.6796185,31.751465900000003,12.0,13.0,Terrier Group,0.4,0.6,0.8,0.4,0.8,Playful,Charming,Mischievous
+"Friendly, Courageous, Calm",5.0,35.56,38.1,18.1436948,22.6796185,8.0,10.0,Non-Sporting Group,0.6,0.8,0.6,0.6,0.8,Friendly,Courageous,Calm
+"Affectionate, Loyal, Brave",51.0,60.96,68.58,45.359237,58.9670081,7.0,9.0,Working Group,0.2,0.6,0.8,0.6,0.6,Affectionate,Loyal,Brave
+"Alert, Cheerful, Busy",69.0,24.13,25.4,5.8967008100000005,6.35029318,13.0,15.0,Terrier Group,0.4,0.4,0.6,0.6,0.8,Alert,Cheerful,Busy
+"Confident, Alert, Vigilant",179.0,48.26,60.96,15.875732950000002,24.947580350000003,12.0,15.0,Herding Group,0.4,1.0,0.6,0.4,0.4,Confident,Alert,Vigilant
+"Affectionate, Intelligent, Majestic",32.0,59.69,69.85,0.0,0.0,9.0,12.0,Working Group,0.2,0.4,0.8,0.6,0.6,Affectionate,Intelligent,Majestic
+"Affectionate, Loyal, Smart",68.0,26.67,31.75,11.33980925,17.23651006,12.0,15.0,Herding Group,0.4,0.6,0.8,0.6,0.6,Affectionate,Loyal,Smart
+"Loyal, Independent, Reserved with Strangers",96.0,45.085,49.53,13.6077711,24.947580350000003,12.0,14.0,Foundation Stock Service,0.2,0.6,0.6,1.0,0.6,Loyal,Independent,Reserved with Strangers
+"Loyal, Independent, Watchful",96.0,55.88,60.96,22.6796185,43.09127515,10.0,14.0,Foundation Stock Service,0.4,0.6,1.0,0.4,0.4,Loyal,Independent,Watchful
+"Fearless, Bold, Kind",96.0,58.42,76.2,44.905644630000005,77.1107029,10.0,12.0,Foundation Stock Service,0.6,0.8,0.4,0.4,0.2,Fearless,Bold,Kind
+"Affectionate, Gentle, Graceful",18.0,30.48,33.02,5.8967008100000005,8.164662660000001,12.0,15.0,Toy Group,0.4,0.4,0.4,1.0,0.8,Affectionate,Gentle,Graceful
+"Independent, Courageous, Self-Confident",96.0,64.77,69.85,39.91612856,49.895160700000005,12.0,14.0,Foundation Stock Service,0.2,0.6,0.4,0.4,0.2,Independent,Courageous,Self-Confident
+"Clever, Adventurous, Family-Oriented",185.0,25.4,33.02,6.35029318,10.88621688,12.0,15.0,Terrier Group,0.4,0.4,0.6,0.6,0.4,Clever,Adventurous,Family-Oriented
+"Affectionate, Bright, Sensitive",45.0,53.34,66.04,24.947580350000003,36.2873896,10.0,13.0,Sporting Group,0.6,0.8,0.8,0.6,0.4,Affectionate,Bright,Sensitive
+"Charming, Graceful, Sassy",33.0,12.7,20.32,2.72155422,2.72155422,14.0,16.0,Toy Group,0.2,0.4,0.6,0.4,0.6,Charming,Graceful,Sassy
+"Affectionate, Alert, Lively",79.0,27.94,33.02,3.62873896,5.4431084400000005,13.0,18.0,Toy Group,0.2,0.2,0.6,0.6,0.8,Affectionate,Alert,Lively
+"Loyal, Independent, Calm",64.0,45.72,50.8,20.41165665,27.2155422,8.0,12.0,Non-Sporting Group,0.2,0.8,0.6,0.2,0.4,Loyal,Independent,Calm
+"Smart, Patient, Devoted",190.0,55.88,66.04,22.6796185,40.8233133,12.0,15.0,Working Group,0.4,0.6,0.8,1.0,0.8,Smart,Patient,Devoted
+"Dignified, Bright, Serious-Minded",75.0,43.18,50.8,20.41165665,31.751465900000003,8.0,12.0,Non-Sporting Group,0.6,0.6,0.6,0.2,0.4,Dignified,Bright,Serious-Minded
+"Affectionate, Friendly, Independent",183.0,41.91,49.53,7.71107029,11.79340162,12.0,14.0,Hound Group,0.2,0.2,0.6,0.6,0.6,Affectionate,Friendly,Independent
+"Mellow, Amusing, Gentlemanly",143.0,43.18,50.8,24.947580350000003,38.55535145,10.0,12.0,Sporting Group,0.4,0.8,0.6,0.6,0.4,Mellow,Amusing,Gentlemanly
+"Gentle, Smart, Happy",30.0,34.29,39.37,9.0718474,13.6077711,10.0,14.0,Sporting Group,0.8,0.4,0.6,1.0,1.0,Gentle,Smart,Happy
+"Devoted, Graceful, Proud",38.0,55.88,66.04,22.6796185,34.01942775,12.0,14.0,Herding Group,0.6,0.6,0.6,0.8,0.8,Devoted,Graceful,Proud
+"Charming, Bright, Happy-Go-Lucky",81.0,22.86,27.94,3.62873896,6.80388555,15.0,19.0,Non-Sporting Group,0.8,0.4,0.6,0.8,1.0,Charming,Bright,Happy-Go-Lucky
+"Loyal, Active, Alert and Intelligent",96.0,40.64,50.8,13.15417873,19.95806428,13.0,14.0,Foundation Stock Service,0.2,0.4,1.0,1.0,0.4,Loyal,Active,Alert and Intelligent
+"Confident, Proud, Wickedly Smart",162.0,58.42,68.58,27.2155422,43.09127515,10.0,12.0,Sporting Group,0.2,0.4,0.8,0.4,0.4,Confident,Proud,Wickedly Smart
+"Loyal, Intelligent, Active",96.0,59.69,64.77,19.95806428,25.85476509,10.0,15.0,Foundation Stock Service,0.4,1.0,1.0,0.2,0.2,Loyal,Intelligent,Active
+"Friendly, Curious, Spunky",12.0,12.7,22.86,4.9895160700000005,14.51495584,12.0,16.0,Hound Group,0.4,0.4,0.6,0.6,0.6,Friendly,Curious,Spunky
+"Dignified, Smart, Outgoing",56.0,48.26,60.96,20.41165665,31.751465900000003,11.0,13.0,Non-Sporting Group,0.4,1.0,0.8,0.6,0.6,Dignified,Smart,Outgoing
+"Independent, Smart, Proud",176.0,20.32,27.94,8.164662660000001,10.88621688,12.0,15.0,Terrier Group,0.8,0.2,0.6,0.4,0.4,Independent,Smart,Proud
+"Energetic, Trainable, Attentive",96.0,31.75,36.83,6.80388555,9.0718474,11.0,13.0,Foundation Stock Service,0.2,0.4,0.8,0.6,0.4,Energetic,Trainable,Attentive
+"Friendly, Versatile, Determined",96.0,45.72,53.34,18.1436948,24.947580350000003,12.0,14.0,Foundation Stock Service,0.4,0.6,0.6,0.6,0.4,Friendly,Versatile,Determined
+"Loyal, Fearless, Alert",17.0,60.96,71.12,27.2155422,45.359237,10.0,12.0,Working Group,0.2,0.8,1.0,1.0,0.6,Loyal,Fearless,Alert
+"Friendly, Cheerful, Humble",96.0,60.96,67.31,39.91612856,45.359237,9.0,15.0,Working Group,0.2,0.2,1.0,0.6,0.6,Friendly,Cheerful,Humble
+"Affectionate, Loyal, Courageous",67.0,58.42,66.04,44.905644630000005,49.895160700000005,5.0,8.0,Working Group,0.2,0.8,0.6,0.6,0.6,Affectionate,Loyal,Courageous
+"Loyal, Intelligent, Sensitive",96.0,53.34,63.5,21.77243376,33.11224301,11.0,14.0,Foundation Stock Service,0.4,0.8,0.8,0.6,0.4,Loyal,Intelligent,Sensitive
+"Loyal, Even-Tempered, Determined",96.0,30.48,38.1,15.875732950000002,18.1436948,15.0,15.0,Foundation Stock Service,0.2,0.4,0.6,0.2,0.6,Loyal,Even-Tempered,Determined
+"Intelligent, Lively, Athletic",96.0,54.61,62.23,19.05087954,34.01942775,11.0,14.0,Miscellaneous Class,0.4,0.6,1.0,0.6,0.6,Intelligent,Lively,Athletic
+"Energetic, Merry, Responsive",52.0,38.1,43.18,11.79340162,15.42214058,12.0,14.0,Sporting Group,0.6,0.4,0.6,1.0,0.8,Energetic,Merry,Responsive
+"Affectionate, Gentle, Sociable",188.0,60.96,60.96,27.2155422,34.01942775,10.0,13.0,Hound Group,0.2,0.8,0.8,0.6,0.8,Affectionate,Gentle,Sociable
+"Friendly, Mellow, Merry",94.0,58.42,68.58,20.41165665,36.2873896,12.0,12.0,Sporting Group,0.6,0.8,0.8,0.8,0.8,Friendly,Mellow,Merry
+"Friendly, Playful, Obedient",27.0,48.26,50.8,18.1436948,22.6796185,12.0,14.0,Sporting Group,0.4,0.4,0.6,1.0,0.8,Friendly,Playful,Obedient
+"Gentle, Playful, Intelligent",135.0,22.86,25.4,3.62873896,6.35029318,10.0,12.0,Toy Group,0.6,0.6,0.6,0.4,0.6,Gentle,Playful,Intelligent
+"Loyal, Smart, Enthusiastic",157.0,40.64,53.34,18.1436948,29.48350405,11.0,13.0,Herding Group,0.2,0.2,1.0,0.4,0.4,Loyal,Smart,Enthusiastic
+"Alert, Intelligent, Brave",96.0,62.23,73.66,34.926612490000004,59.874192840000006,10.0,14.0,Foundation Stock Service,0.4,0.6,0.4,0.6,0.4,Alert,Intelligent,Brave
+"Confident, Calm, Family-Oriented",96.0,48.26,60.96,18.1436948,31.751465900000003,12.0,16.0,Foundation Stock Service,0.6,0.6,0.6,0.6,0.4,Confident,Calm,Family-Oriented
+"Sweet, Fun-Loving, Sensitive",149.0,43.18,45.72,15.875732950000002,22.6796185,12.0,13.0,Sporting Group,0.4,0.8,0.6,0.6,0.4,Sweet,Fun-Loving,Sensitive
+"Friendly, Alert, Agile",161.0,40.64,53.34,14.968548210000002,24.04039561,12.0,15.0,Herding Group,0.4,0.6,0.6,1.0,0.4,Friendly,Alert,Agile
+"Friendly, Good-Natured, Lively",184.0,39.37,50.8,9.0718474,14.968548210000002,13.0,15.0,Non-Sporting Group,0.4,0.6,1.0,0.6,0.8,Friendly,Good-Natured,Lively
+"Cheerful, Optimistic, Good-Humored",91.0,55.88,62.23,27.2155422,31.751465900000003,8.0,10.0,Sporting Group,0.4,0.8,1.0,1.0,0.8,Cheerful,Optimistic,Good-Humored
+"Adaptable, Playful, Smart",4.0,27.94,33.02,12.70058636,12.70058636,10.0,12.0,Non-Sporting Group,0.2,0.8,0.4,0.6,0.6,Adaptable,Playful,Smart
+"Gentle, Sociable, Intelligent",96.0,54.61,60.96,22.6796185,27.2155422,10.0,12.0,Foundation Stock Service,0.4,0.6,0.6,0.6,0.4,Gentle,Sociable,Intelligent
+"Versatile, Calm, Family-Oriented",96.0,55.88,71.12,24.947580350000003,36.2873896,12.0,14.0,Foundation Stock Service,0.2,0.6,0.8,1.0,0.8,Versatile,Calm,Family-Oriented
+"Courageous, Intelligent, Vivacious",134.0,43.18,50.8,11.33980925,20.41165665,12.0,14.0,Working Group,0.2,0.4,1.0,0.6,0.6,Courageous,Intelligent,Vivacious
+"Confident, Courageous, Smart",2.0,55.88,66.04,22.6796185,40.8233133,7.0,10.0,Herding Group,0.4,0.8,0.6,1.0,0.6,Confident,Courageous,Smart
+"Friendly, Smart, Willing to Please",9.0,53.34,63.5,20.41165665,31.751465900000003,10.0,12.0,Sporting Group,0.4,0.8,1.0,1.0,0.8,Friendly,Smart,Willing to Please
+"Devoted, Lively, Attentive",96.0,30.48,38.1,10.88621688,11.79340162,13.0,15.0,Foundation Stock Service,0.6,0.6,0.6,1.0,0.4,Devoted,Lively,Attentive
+"Affectionate, Eager, Enthusiastic",63.0,55.88,66.04,22.6796185,31.751465900000003,14.0,16.0,Sporting Group,0.4,0.8,1.0,1.0,0.4,Affectionate,Eager,Enthusiastic
+"Loyal, Alert, Trainable",78.0,59.69,69.85,24.947580350000003,38.55535145,12.0,15.0,Working Group,0.8,0.6,1.0,0.8,0.6,Loyal,Alert,Trainable
+"Gentle, Spirited, Bold",174.0,31.75,35.56,14.51495584,18.1436948,10.0,15.0,Terrier Group,0.6,0.4,0.6,0.4,0.6,Gentle,Spirited,Bold
+"Friendly, Intelligent, Devoted",3.0,54.61,60.96,24.947580350000003,34.01942775,10.0,12.0,Sporting Group,0.4,0.6,1.0,1.0,0.8,Friendly,Intelligent,Devoted
+"Affectionate, Confident, Bold",115.0,58.42,68.58,20.41165665,36.2873896,12.0,13.0,Sporting Group,0.4,0.6,1.0,0.4,0.4,Affectionate,Confident,Bold
+"Independent, Happy, Outgoing",177.0,39.37,45.72,18.1436948,20.41165665,13.0,15.0,Hound Group,0.4,0.6,1.0,0.4,0.8,Independent,Happy,Outgoing
+"Friendly, Patient, Dependable",16.0,71.12,81.28,49.895160700000005,79.37866475,7.0,10.0,Working Group,0.2,0.6,0.8,0.6,0.6,Friendly,Patient,Dependable
+"Smart, Patient, Calm",66.0,63.5,81.28,38.55535145,45.359237,10.0,12.0,Working Group,0.4,0.6,1.0,0.4,0.4,Smart,Patient,Calm
+"Faithful, Family-Oriented, Dependable",74.0,59.69,72.39,38.55535145,63.502931800000006,8.0,11.0,Working Group,0.4,0.6,0.8,0.6,0.6,Faithful,Family-Oriented,Dependable
+"Gentle, Independent, Noble",145.0,68.58,76.2,27.2155422,31.751465900000003,10.0,13.0,Hound Group,0.2,0.4,0.8,0.4,0.8,Gentle,Independent,Noble
+"Agile, Versatile, Regal",96.0,48.26,60.96,18.1436948,34.01942775,14.0,17.0,Foundation Stock Service,0.2,0.2,0.8,0.6,0.8,Agile,Versatile,Regal
+"Loyal, Independent, Calm",96.0,48.26,53.34,35.83379723,44.905644630000005,10.0,14.0,Foundation Stock Service,0.2,0.2,0.6,0.4,0.4,Loyal,Independent,Calm
+"Friendly, Outgoing, People-Oriented",189.0,48.26,53.34,20.41165665,27.2155422,12.0,15.0,Hound Group,0.4,0.4,1.0,0.8,0.8,Friendly,Outgoing,People-Oriented
+"Intelligent, Outgoing, Funny",24.0,21.59,29.21,3.17514659,5.8967008100000005,14.0,16.0,Toy Group,0.6,0.4,0.6,0.8,1.0,Intelligent,Outgoing,Funny
+"Dignified, Alert, Devoted",96.0,45.72,50.8,19.95806428,29.937096420000003,12.0,15.0,Foundation Stock Service,0.4,0.6,0.8,0.6,0.4,Dignified,Alert,Devoted
+"Alert, Faithful, Intelligent",96.0,58.42,71.12,29.48350405,40.8233133,10.0,14.0,Foundation Stock Service,0.2,0.6,0.6,0.2,0.4,Alert,Faithful,Intelligent
+"Family-Oriented, Even-Tempered, Polite",152.0,57.15,69.85,20.41165665,22.6796185,11.0,14.0,Hound Group,0.2,0.4,1.0,0.4,0.4,Family-Oriented,Even-Tempered,Polite
+"Friendly, Playful, Inquisitive",155.0,41.91,45.72,11.33980925,13.6077711,12.0,14.0,Herding Group,0.4,0.6,0.8,1.0,0.8,Friendly,Playful,Inquisitive
+"Courageous, Spirited, Determined",146.0,57.15,66.04,15.875732950000002,27.2155422,11.0,15.0,Sporting Group,0.4,0.6,1.0,0.8,0.8,Courageous,Spirited,Determined
+"Active, Outgoing, Sweet-Natured",77.0,63.5,68.58,27.2155422,31.751465900000003,12.0,15.0,Sporting Group,0.6,0.6,1.0,0.6,1.0,Active,Outgoing,Sweet-Natured
+"Bold, Dashing, Tenderhearted",116.0,45.72,45.72,11.33980925,12.24699399,13.0,15.0,Terrier Group,0.2,0.4,0.6,0.6,0.6,Bold,Dashing,Tenderhearted
+"Playful, Hardworking, Brave",159.0,53.34,60.96,20.41165665,30.84428116,12.0,13.0,Sporting Group,0.4,0.6,1.0,0.8,0.4,Playful,Hardworking,Brave
+"Courageous, Dignified, Calm",76.0,76.2,81.28,47.62719885,54.4310844,6.0,8.0,Hound Group,0.4,0.6,0.6,0.4,0.6,Courageous,Dignified,Calm
+"Playful, Alert, Sensitive",73.0,33.02,38.1,3.17514659,6.35029318,14.0,15.0,Toy Group,0.2,0.6,0.6,0.4,0.2,Playful,Alert,Sensitive
+"Courageous, Intelligent, Hardworking",96.0,33.02,40.64,7.71107029,9.97903214,10.0,12.0,Foundation Stock Service,0.4,0.6,0.6,0.6,0.4,Courageous,Intelligent,Hardworking
+"Charming, Noble, Loving",104.0,20.32,27.94,3.17514659,4.9895160700000005,10.0,12.0,Toy Group,0.4,0.6,0.6,0.4,0.4,Charming,Noble,Loving
+"Loyal, Playful, Smart",96.0,30.48,38.1,4.535923700000001,11.33980925,12.0,14.0,Foundation Stock Service,0.4,0.4,0.6,0.8,0.8,Loyal,Playful,Smart
+"Alert, Intelligent, Bold",96.0,45.72,55.88,13.6077711,22.6796185,14.0,14.0,Foundation Stock Service,0.4,0.6,0.8,0.4,0.4,Alert,Intelligent,Bold
+"Loyal, Agile, Keen",96.0,39.37,49.53,9.0718474,18.1436948,12.0,15.0,Foundation Stock Service,0.2,0.6,0.8,0.4,0.4,Loyal,Agile,Keen
+"Loyal, Independent, Courageous",96.0,48.26,59.69,19.95806428,22.22602613,11.0,13.0,Foundation Stock Service,0.2,0.6,0.4,0.6,0.4,Loyal,Independent,Courageous
+"Friendly, Lively, Outgoing",95.0,43.18,45.72,15.875732950000002,20.41165665,12.0,15.0,Non-Sporting Group,0.6,0.6,0.6,0.8,0.8,Friendly,Lively,Outgoing
+"Smart, Alert, People-Oriented",129.0,44.45,49.53,14.968548210000002,18.1436948,12.0,15.0,Terrier Group,0.6,0.4,0.6,0.2,0.6,Smart,Alert,People-Oriented
+"Faithful, Noble, Docile",96.0,43.18,55.88,13.6077711,27.2155422,11.0,13.0,Foundation Stock Service,0.2,0.6,0.8,0.4,0.4,Faithful,Noble,Docile
+"Loyal, Dignified, Brave",173.0,64.77,69.85,36.2873896,45.359237,10.0,12.0,Working Group,1.0,0.6,0.6,0.4,0.4,Loyal,Dignified,Brave
+"Intelligent, Active, Sensitive",96.0,38.1,45.72,9.0718474,15.875732950000002,13.0,15.0,Foundation Stock Service,0.6,0.8,0.6,0.6,0.4,Intelligent,Active,Sensitive
+"Loyal, Fearless, Sweet",163.0,66.04,76.2,31.751465900000003,52.16312255,10.0,12.0,Working Group,0.4,0.8,0.6,0.4,0.4,Loyal,Fearless,Sweet
+"Friendly, Active, Outgoing",1.0,54.61,62.23,24.947580350000003,36.2873896,10.0,12.0,Sporting Group,0.4,0.8,1.0,1.0,1.0,Friendly,Active,Outgoing
+"Affectionate, Keen, Undemanding",99.0,40.64,48.26,10.88621688,15.875732950000002,15.0,17.0,Sporting Group,0.2,0.2,0.6,1.0,0.6,Affectionate,Keen,Undemanding
+"Friendly, Confident, Bold",147.0,35.56,38.1,7.71107029,7.71107029,12.0,15.0,Terrier Group,0.4,0.2,0.6,0.6,0.6,Friendly,Confident,Bold
+"Affectionate, Versatile, Intelligent",96.0,25.4,30.48,4.082331330000001,7.71107029,12.0,15.0,Miscellaneous Class,0.2,0.6,0.8,0.8,0.8,Affectionate,Versatile,Intelligent
+"Friendly, Energetic, Intelligent",96.0,45.72,50.8,31.751465900000003,31.751465900000003,10.0,14.0,Foundation Stock Service,0.4,0.6,0.6,1.0,0.4,Friendly,Energetic,Intelligent
+"Friendly, Gentle, Playful",93.0,64.77,80.01,40.8233133,77.1107029,9.0,9.0,Working Group,0.8,0.8,0.6,1.0,0.8,Friendly,Gentle,Playful
+"Confident, Smart, Comical",71.0,25.4,27.94,5.4431084400000005,8.164662660000001,12.0,15.0,Non-Sporting Group,0.6,0.2,0.6,0.4,0.4,Confident,Smart,Comical
+"Affectionate, Outgoing, Positive",168.0,27.94,33.02,4.535923700000001,6.80388555,15.0,15.0,Non-Sporting Group,0.2,0.2,0.6,0.6,1.0,Affectionate,Outgoing,Positive
+"Gentle, Playful, Charming",37.0,17.78,22.86,3.17514659,3.17514659,12.0,15.0,Toy Group,0.8,0.2,0.6,0.6,1.0,Gentle,Playful,Charming
+"Spirited, Bright, Keenly Observant",133.0,38.1,40.64,5.4431084400000005,9.97903214,15.0,17.0,Terrier Group,0.4,0.4,0.6,0.8,0.6,Spirited,Bright,Keenly Observant
+"Agile, Spirited, Intelligent",133.0,25.4,30.48,5.4431084400000005,5.4431084400000005,15.0,17.0,Toy Group,0.4,0.4,0.6,0.8,0.6,Agile,Spirited,Intelligent
+"Courageous, Dignified, Good-Natured",29.0,69.85,76.2,54.4310844,104.3262451,6.0,10.0,Working Group,0.2,0.4,0.6,0.6,0.6,Courageous,Dignified,Good-Natured
+"Good-Natured, Intelligent, Devoted",34.0,33.02,45.72,9.0718474,18.1436948,12.0,13.0,Herding Group,0.8,1.0,0.8,1.0,0.8,Good-Natured,Intelligent,Devoted
+"Upbeat, Mischievous, Comical",110.0,25.4,35.56,8.164662660000001,12.70058636,11.0,13.0,Terrier Group,0.2,0.4,0.8,0.4,0.6,Upbeat,Mischievous,Comical
+"Fearless, Fun-Loving, Proud",70.0,25.4,31.75,3.62873896,4.535923700000001,12.0,16.0,Toy Group,0.2,0.2,0.6,0.4,0.6,Fearless,Fun-Loving,Proud
+"Friendly, Smart, Obedient",19.0,30.48,35.56,4.9895160700000005,9.0718474,12.0,15.0,Terrier Group,1.0,0.2,0.6,1.0,0.6,Friendly,Smart,Obedient
+"Intelligent, Strong-Willed, Reserved with Strangers",96.0,40.64,66.04,13.6077711,27.2155422,10.0,13.0,Foundation Stock Service,0.2,0.6,1.0,0.2,0.4,Intelligent,Strong-Willed,Reserved with Strangers
+"Loyal, Intelligent, Active",96.0,38.1,46.99,8.164662660000001,13.15417873,12.0,14.0,Miscellaneous Class,0.2,0.4,1.0,1.0,0.4,Loyal,Intelligent,Active
+"Loyal, Dignified, Watchful",102.0,60.96,78.74,49.895160700000005,68.0388555,7.0,9.0,Working Group,0.4,0.6,0.6,0.2,0.2,Loyal,Dignified,Watchful
+"Friendly, Alert, Quick",150.0,35.56,43.18,9.0718474,13.6077711,12.0,15.0,Sporting Group,0.4,0.6,0.6,1.0,0.4,Friendly,Alert,Quick
+"Sweet, Patient, Devoted",40.0,66.04,71.12,45.359237,68.0388555,9.0,10.0,Working Group,0.4,0.6,0.6,0.8,0.8,Sweet,Patient,Devoted
+"Fearless, Alert, Fun-Loving",126.0,22.86,25.4,4.9895160700000005,5.4431084400000005,12.0,16.0,Terrier Group,0.4,0.6,0.6,0.6,0.8,Fearless,Alert,Fun-Loving
+"Fearless, Agile, Attentive",96.0,41.91,45.72,9.0718474,13.6077711,14.0,17.0,Miscellaneous Class,0.4,0.4,0.8,0.8,0.6,Fearless,Agile,Attentive
+"Confident, Smart, Perceptive",165.0,40.64,46.99,11.79340162,18.1436948,12.0,15.0,Herding Group,0.4,0.6,0.8,0.8,0.8,Confident,Smart,Perceptive
+"Friendly, Confident, Dependable",97.0,49.53,52.07,21.77243376,24.947580350000003,12.0,15.0,Hound Group,0.4,0.6,0.6,0.6,0.8,Friendly,Confident,Dependable
+"Loyal, Energetic, Alert",191.0,30.48,38.1,9.0718474,13.6077711,12.0,15.0,Non-Sporting Group,0.4,0.6,0.8,0.6,0.4,Loyal,Energetic,Alert
+"Affectionate, Alert, Curious",108.0,25.4,25.4,5.4431084400000005,5.4431084400000005,12.0,15.0,Terrier Group,0.4,0.6,0.8,0.6,0.8,Affectionate,Alert,Curious
+"Affectionate, Intelligent, Outgoing",83.0,43.18,53.34,15.875732950000002,22.6796185,12.0,14.0,Sporting Group,0.4,0.6,1.0,0.8,0.8,Affectionate,Intelligent,Outgoing
+"Adaptable, Gentle, Smart",72.0,53.34,55.88,27.2155422,45.359237,10.0,12.0,Herding Group,0.6,0.6,0.6,0.4,0.6,Adaptable,Gentle,Smart
+"Even-Tempered, Amiable, Boisterous",182.0,60.96,68.58,36.2873896,52.16312255,10.0,13.0,Hound Group,0.4,0.6,0.6,0.2,0.6,Even-Tempered,Amiable,Boisterous
+"Friendly, Alert, Happy",54.0,20.32,27.94,2.2679618500000003,4.535923700000001,14.0,16.0,Toy Group,0.4,0.6,0.6,1.0,1.0,Friendly,Alert,Happy
+"Friendly, Clever, Athletic",117.0,33.02,35.56,5.8967008100000005,7.71107029,13.0,15.0,Terrier Group,0.4,0.4,1.0,0.6,0.8,Friendly,Clever,Athletic
+"Affectionate, Loyal, Regal in Manner",92.0,15.24,22.86,6.35029318,6.35029318,12.0,14.0,Toy Group,0.6,0.6,0.4,0.2,0.4,Affectionate,Loyal,Regal in Manner
+"Affectionate, Smart, Alert",13.0,25.4,30.48,12.70058636,13.6077711,12.0,13.0,Herding Group,0.4,0.8,0.8,0.6,1.0,Affectionate,Smart,Alert
+"Confident, Calm, Strong-Willed",96.0,55.88,66.04,38.10175908,49.895160700000005,9.0,11.0,Foundation Stock Service,0.2,0.6,0.4,0.6,0.4,Confident,Calm,Strong-Willed
+"Affectionate, Loyal, Noble",96.0,24.765,65.405,3.855535145,24.947580350000003,12.0,14.0,Miscellaneous Class,0.2,0.8,0.8,0.6,0.4,Affectionate,Loyal,Noble
+"Alert, Happy, Vivacious",156.0,33.02,38.1,11.33980925,18.1436948,12.0,14.0,Hound Group,0.4,0.4,0.8,0.4,0.8,Alert,Happy,Vivacious
+"Friendly, Smart, Noble",172.0,53.34,63.5,20.41165665,24.947580350000003,12.0,14.0,Hound Group,0.4,0.6,0.8,0.4,0.4,Friendly,Smart,Noble
+"Loyal, Alert, Intelligent",171.0,50.8,63.5,18.1436948,27.2155422,12.0,14.0,Hound Group,0.2,0.4,0.8,0.4,0.6,Loyal,Alert,Intelligent
+"Loyal, Hardworking, Even-Tempered",114.0,58.42,71.12,20.41165665,34.01942775,12.0,17.0,Sporting Group,0.4,0.4,0.8,0.6,0.6,Loyal,Hardworking,Even-Tempered
+"Confident, Clever, Lively",170.0,43.18,50.8,13.6077711,22.6796185,12.0,14.0,Herding Group,0.8,0.6,0.8,0.2,0.2,Confident,Clever,Lively
+"Inquisitive, Bold, Lively",23.0,15.24,17.78,1.36077711,3.17514659,12.0,16.0,Toy Group,0.6,0.6,0.6,0.6,0.6,Inquisitive,Bold,Lively
+"Active, Proud, Very Smart",7.0,25.4,38.1,4.535923700000001,6.80388555,10.0,18.0,Non-Sporting Group,0.4,0.6,0.6,0.6,0.6,Active,Proud,Very Smart
+"Active, Proud, Very Smart",7.0,38.1,38.1,18.1436948,31.751465900000003,10.0,18.0,Non-Sporting Group,1.0,0.2,0.6,1.0,0.8,Active,Proud,Very Smart
+"Agile, Intelligent, Self-Confident",7.0,25.4,25.4,1.81436948,2.72155422,10.0,18.0,Toy Group,1.0,0.2,0.6,1.0,0.8,Agile,Intelligent,Self-Confident
+"Independent, Energetic, Powerful",96.0,55.88,58.42,24.947580350000003,28.12272694,12.0,13.0,Foundation Stock Service,0.2,0.6,0.8,0.6,0.6,Independent,Energetic,Powerful
+"Independent, Alert, Intelligent",96.0,40.64,71.12,15.875732950000002,29.937096420000003,10.0,12.0,Miscellaneous Class,0.4,0.8,0.8,0.6,0.4,Independent,Alert,Intelligent
+"Playful, Charming, Lively",154.0,20.32,30.48,4.082331330000001,5.8967008100000005,12.0,15.0,Hound Group,0.4,0.6,0.8,0.6,0.8,Playful,Charming,Lively
+"Affectionate, Smart, Energetic",96.0,52.07,55.88,15.875732950000002,26.76194983,14.0,14.0,Foundation Stock Service,0.2,0.4,0.8,1.0,0.8,Affectionate,Smart,Energetic
+"Intelligent, Devoted, Lively",96.0,41.91,54.61,17.009713875,26.76194983,12.0,13.0,Foundation Stock Service,0.4,0.4,0.8,0.6,0.4,Intelligent,Devoted,Lively
+"Affectionate, Adventurous, Athletic",50.0,43.18,58.42,15.875732950000002,27.2155422,11.0,13.0,Working Group,0.8,0.6,0.8,0.8,0.6,Affectionate,Adventurous,Athletic
+"Friendly, Smart, Willing to Please",96.0,55.88,66.04,20.41165665,31.751465900000003,14.0,14.0,Foundation Stock Service,0.2,0.6,0.6,0.6,0.4,Friendly,Smart,Willing to Please
+"Charming, Mischievous, Loving",28.0,25.4,33.02,6.35029318,8.164662660000001,13.0,15.0,Toy Group,0.4,0.8,0.6,0.6,0.8,Charming,Mischievous,Loving
+"Loyal, Smart, Home-Loving",160.0,40.64,43.18,11.33980925,15.875732950000002,10.0,15.0,Herding Group,1.0,0.2,0.6,0.4,0.4,Loyal,Smart,Home-Loving
+"Energetic, Lively, Ready to Work",151.0,38.1,46.99,9.97903214,13.15417873,12.0,13.0,Herding Group,0.2,0.2,0.8,0.8,0.6,Energetic,Lively,Ready to Work
+"Gentle, Brave, Noble",96.0,63.5,78.74,54.4310844,108.8621688,10.0,13.0,Foundation Stock Service,0.6,0.6,0.4,0.6,0.4,Gentle,Brave,Noble
+"Affectionate, Active, Enthusiastic",181.0,38.1,53.34,6.80388555,13.6077711,0.0,0.0,Herding Group,0.4,0.6,0.8,0.6,0.4,Affectionate,Active,Enthusiastic
+"Confident, Calm, Powerful",96.0,63.5,73.66,34.926612490000004,59.874192840000006,12.0,14.0,Foundation Stock Service,0.4,0.6,0.4,0.6,0.4,Confident,Calm,Powerful
+"Friendly, Inquisitive, Lovable",86.0,25.4,45.72,4.535923700000001,11.33980925,12.0,18.0,Terrier Group,0.4,0.6,0.6,0.8,0.8,Friendly,Inquisitive,Lovable
+"Even-Tempered, Amiable, Eager to Please",142.0,53.34,68.58,20.41165665,31.751465900000003,12.0,15.0,Hound Group,0.4,0.6,0.6,0.8,0.8,Even-Tempered,Amiable,Eager to Please
+"Affectionate, Dignified, Even-Tempered",41.0,60.96,68.58,31.751465900000003,38.55535145,10.0,10.0,Hound Group,0.4,0.6,0.6,0.4,0.6,Affectionate,Dignified,Even-Tempered
+"Loyal, Independent, Confident Guardian",96.0,57.15,73.66,45.359237,58.9670081,12.0,14.0,Foundation Stock Service,0.4,0.4,0.6,0.4,0.2,Loyal,Independent,Confident Guardian
+"Loyal, Loving, Confident Guardian",8.0,55.88,68.58,36.2873896,61.23496995,9.0,10.0,Working Group,0.4,0.6,0.6,0.6,0.4,Loyal,Loving,Confident Guardian
+"Alert, Inquisitive, Lively",82.0,25.4,30.48,4.082331330000001,6.80388555,12.0,14.0,Terrier Group,0.4,0.4,1.0,0.6,0.8,Alert,Inquisitive,Lively
+"Loyal, Smart, Charming",96.0,20.32,27.94,2.948350405,2.948350405,12.0,14.0,Miscellaneous Class,0.4,0.2,0.6,0.6,0.8,Loyal,Smart,Charming
+"Playful, Charming, Inquisitive",96.0,22.86,25.4,2.0411656650000003,4.9895160700000005,12.0,16.0,Foundation Stock Service,0.6,0.2,0.6,0.6,0.8,Playful,Charming,Inquisitive
+"Playful, Charming, Inquisitive",48.0,66.04,76.2,54.4310844,81.6466266,8.0,10.0,Working Group,0.4,0.6,0.6,0.6,0.8,Playful,Charming,Inquisitive
+"Gentle, Dignified, Independent-Minded",120.0,58.42,71.12,18.1436948,29.48350405,10.0,17.0,Hound Group,0.2,0.4,0.8,0.4,0.4,Gentle,Dignified,Independent-Minded
+"Adaptable, Friendly, Gentle",59.0,48.26,59.69,15.875732950000002,29.48350405,12.0,14.0,Working Group,0.6,0.6,0.8,0.4,0.8,Adaptable,Friendly,Gentle
+"Friendly, Watchful, Lively",96.0,40.64,50.8,11.79340162,24.947580350000003,12.0,15.0,Foundation Stock Service,0.4,0.6,0.6,0.8,0.6,Friendly,Watchful,Lively
+"Confident, Alert, Curious",105.0,25.4,33.02,4.535923700000001,7.25747792,12.0,14.0,Non-Sporting Group,0.4,0.6,0.8,0.4,0.6,Confident,Alert,Curious
+"Gentle, Dignified, Polite",158.0,71.12,81.28,34.01942775,49.895160700000005,8.0,11.0,Hound Group,0.2,0.6,0.6,0.4,0.6,Gentle,Dignified,Polite
+"Confident, Independent, Spirited",57.0,25.4,25.4,8.164662660000001,9.97903214,12.0,12.0,Terrier Group,0.6,0.4,0.6,0.4,0.6,Confident,Independent,Spirited
+"Alert, Outgoing, Sense Of Humor",164.0,26.67,26.67,10.43262451,10.88621688,12.0,14.0,Terrier Group,0.6,0.6,0.6,0.4,0.6,Alert,Outgoing,Sense Of Humor
+"Friendly, Intelligent, Eager to Please",96.0,48.26,58.42,18.1436948,27.2155422,11.0,13.0,Foundation Stock Service,0.4,0.6,0.6,1.0,0.4,Friendly,Intelligent,Eager to Please
+"Playful, Energetic, Bright",25.0,33.02,40.64,6.80388555,11.33980925,12.0,14.0,Herding Group,0.6,0.6,0.6,1.0,0.4,Playful,Energetic,Bright
+"Alert, Active, Attentive",44.0,34.29,41.91,7.71107029,10.43262451,13.0,16.0,Non-Sporting Group,0.4,0.6,0.6,0.4,0.4,Alert,Active,Attentive
+"Affectionate, Playful, Outgoing",20.0,22.86,26.67,4.082331330000001,7.25747792,10.0,18.0,Toy Group,0.8,0.2,0.6,0.6,0.8,Affectionate,Playful,Outgoing
+"Energetic, Alert, Enthusiastic",96.0,43.18,55.88,15.875732950000002,24.947580350000003,10.0,12.0,Foundation Stock Service,0.4,0.6,0.6,0.6,0.4,Energetic,Alert,Enthusiastic
+"Loyal, Mischievous, Outgoing",14.0,50.8,59.69,15.875732950000002,27.2155422,12.0,14.0,Working Group,0.4,0.6,0.8,0.4,0.8,Loyal,Mischievous,Outgoing
+"Friendly, Quick, Keenly Alert",112.0,22.86,25.4,4.535923700000001,4.535923700000001,13.0,15.0,Toy Group,0.6,0.4,0.6,0.6,0.6,Friendly,Quick,Keenly Alert
+"Courageous, Good-Tempered, Canny",178.0,24.13,25.4,15.875732950000002,20.41165665,12.0,14.0,Terrier Group,0.8,0.6,0.6,0.4,0.4,Courageous,Good-Tempered,Canny
+"Reserved, Graceful, Noble",192.0,60.96,73.66,15.875732950000002,22.6796185,10.0,15.0,Hound Group,0.4,0.2,0.6,0.4,0.4,Reserved,Graceful,Noble
+"Friendly, Smart, Willing to Please",96.0,57.15,67.31,22.6796185,29.48350405,12.0,15.0,Foundation Stock Service,0.2,0.4,0.8,0.4,1.0,Friendly,Smart,Willing to Please
+"Courageous, Alert, Faithful",96.0,58.42,69.85,30.84428116,43.99845989,11.0,13.0,Foundation Stock Service,0.4,0.8,0.4,0.6,0.4,Courageous,Alert,Faithful
+"Courageous, Alert, Determined",96.0,40.64,50.8,14.968548210000002,19.95806428,12.0,13.0,Foundation Stock Service,0.2,0.6,0.6,0.6,0.4,Courageous,Alert,Determined
+"Intelligent, Devoted, Self-Confident",96.0,52.07,53.34,18.1436948,27.2155422,12.0,14.0,Foundation Stock Service,0.2,0.6,1.0,0.6,0.8,Intelligent,Devoted,Self-Confident
+"Friendly, Independent, Amusing",123.0,38.1,38.1,6.80388555,8.164662660000001,12.0,15.0,Terrier Group,0.4,0.4,0.8,0.6,0.8,Friendly,Independent,Amusing
+"Friendly, Happy, Deeply Devoted",53.0,43.18,48.26,13.6077711,18.1436948,12.0,14.0,Terrier Group,0.6,0.2,0.8,0.4,0.6,Friendly,Happy,Deeply Devoted
+"Affectionate, Intelligent, Kind",96.0,71.12,88.9,63.502931800000006,90.718474,10.0,12.0,Foundation Stock Service,0.4,0.6,0.4,0.6,0.4,Affectionate,Intelligent,Kind
+Playful but also Work-Oriented. Very Active and Upbeat.,153.0,40.005,50.165,14.06136347,22.22602613,12.0,14.0,Herding Group,1.0,0.2,0.8,1.0,0.4,Playful but also Work-Oriented. Very Active and Upbeat.,Unknown,Unknown
+"Sociable, Patient, Docile",109.0,55.88,68.58,19.95806428,29.48350405,10.0,12.0,Sporting Group,0.4,0.6,0.8,0.6,0.6,Sociable,Patient,Docile
+"Intelligent, Responsive, Loving",96.0,48.26,53.34,18.1436948,27.2155422,13.0,15.0,Foundation Stock Service,0.2,0.6,0.8,0.8,0.6,Intelligent,Responsive,Loving
+"Clever, Brave, Tenacious",80.0,35.56,40.64,10.88621688,17.23651006,12.0,14.0,Terrier Group,0.4,0.4,0.8,0.2,0.8,Clever,Brave,Tenacious
+"Fearless, Smart, Spirited",89.0,44.45,49.53,13.6077711,22.6796185,13.0,16.0,Working Group,0.6,0.2,0.6,0.4,0.8,Fearless,Smart,Spirited
+"Friendly, Merry, Even-Tempered",180.0,33.02,38.1,15.875732950000002,20.41165665,13.0,15.0,Sporting Group,0.6,0.6,0.6,0.4,0.4,Friendly,Merry,Even-Tempered
+"Playful, Intelligent, Lively",96.0,40.64,50.8,13.6077711,20.41165665,12.0,14.0,Foundation Stock Service,0.4,0.6,0.6,0.2,0.6,Playful,Intelligent,Lively
+"Friendly, Energetic, Watchful",169.0,29.21,34.925,9.0718474,15.875732950000002,12.0,15.0,Herding Group,0.2,0.6,1.0,1.0,0.8,Friendly,Energetic,Watchful
+"Loyal, Versatile, Intelligent",96.0,43.18,50.8,11.79340162,18.1436948,9.0,13.0,Foundation Stock Service,0.4,0.6,1.0,0.8,0.4,Loyal,Versatile,Intelligent
+"Playful, Versatile, Intelligent",96.0,20.32,38.1,3.62873896,11.33980925,14.0,16.0,Miscellaneous Class,0.4,0.6,0.8,1.0,0.8,Playful,Versatile,Intelligent
+"Loyal, Independent, Agile",96.0,50.8,60.96,15.875732950000002,34.01942775,12.0,13.0,Foundation Stock Service,0.2,0.6,0.8,0.4,0.4,Loyal,Independent,Agile
+"Independent, Reserved, Intelligent",131.0,60.96,66.04,31.751465900000003,68.0388555,10.0,12.0,Working Group,0.6,0.6,0.6,0.4,0.6,Independent,Reserved,Intelligent
+"Playful, Bright, Self-Confident",119.0,25.4,25.4,4.082331330000001,6.80388555,12.0,15.0,Non-Sporting Group,0.4,0.6,0.4,0.6,0.6,Playful,Bright,Self-Confident
+"Affectionate, Loyal, Sensitive",96.0,35.56,43.18,8.164662660000001,13.6077711,15.0,16.0,Non-Sporting Group,0.6,0.6,0.8,0.4,0.4,Affectionate,Loyal,Sensitive
+"Friendly, Courageous, Intelligent",96.0,58.42,71.12,28.12272694,49.895160700000005,12.0,14.0,Foundation Stock Service,0.4,0.6,0.6,0.8,0.6,Friendly,Courageous,Intelligent
+"Fearless, Patient, Vigilant",96.0,54.61,59.69,45.359237,90.718474,10.0,12.0,Foundation Stock Service,0.2,0.4,0.4,0.6,0.4,Fearless,Patient,Vigilant
+"Friendly, Alert, Intelligent",111.0,21.59,29.21,1.587573295,3.17514659,13.0,15.0,Toy Group,0.4,0.4,0.8,1.0,0.8,Friendly,Alert,Intelligent
+"Courageous, Good-Natured, Determined",96.0,55.88,66.04,24.947580350000003,24.947580350000003,10.0,14.0,Foundation Stock Service,0.4,0.6,1.0,0.2,0.4,Courageous,Good-Natured,Determined
+"Friendly, Alert, Intelligent",96.0,40.64,60.96,13.6077711,22.6796185,10.0,12.0,Foundation Stock Service,0.4,0.4,0.6,0.6,0.4,Friendly,Alert,Intelligent
+"Smart, Brave, Courteous",137.0,50.8,68.58,22.6796185,31.751465900000003,12.0,13.0,Hound Group,0.2,0.6,0.6,0.4,0.8,Smart,Brave,Courteous
+"Affectionate, Gentle, Energetic",31.0,53.34,60.96,19.95806428,27.2155422,12.0,14.0,Sporting Group,0.4,0.6,0.8,1.0,0.8,Affectionate,Gentle,Energetic
+"Friendly, Fearless, Obedient",36.0,58.42,68.58,24.947580350000003,40.8233133,10.0,13.0,Sporting Group,0.4,0.6,1.0,1.0,0.8,Friendly,Fearless,Obedient
+"Happy, Reserved, Upbeat",128.0,43.18,48.26,15.875732950000002,24.947580350000003,12.0,15.0,Sporting Group,0.4,0.6,0.8,0.8,0.8,Happy,Reserved,Upbeat
+"Friendly, Spirited, Intelligent",107.0,38.1,38.1,9.0718474,9.0718474,12.0,15.0,Terrier Group,0.6,0.4,0.8,0.6,1.0,Friendly,Spirited,Intelligent
+"Loyal, Happy, Entertaining",42.0,25.4,27.94,6.80388555,9.0718474,13.0,15.0,Terrier Group,0.8,0.6,0.6,0.6,0.8,Loyal,Happy,Entertaining
+"Loyal, Good-Natured, Intelligent",96.0,12.7,58.42,22.6796185,34.01942775,13.0,13.0,Foundation Stock Service,0.2,0.4,0.6,0.2,0.4,Loyal,Good-Natured,Intelligent
+"Affectionate, Playful, Calm",61.0,45.72,55.88,11.33980925,18.1436948,12.0,15.0,Hound Group,0.2,0.4,0.6,0.4,0.4,Affectionate,Playful,Calm
+"Confident, Alert, Gregarious",101.0,38.1,38.1,6.80388555,8.164662660000001,12.0,15.0,Terrier Group,0.4,0.2,0.6,0.6,0.6,Confident,Alert,Gregarious
+"Friendly, Devoted, Trainable",65.0,50.8,60.96,15.875732950000002,31.751465900000003,12.0,15.0,Sporting Group,0.4,0.6,1.0,0.6,0.6,Friendly,Devoted,Trainable
+"Gentle, Loyal, Trainable",167.0,54.61,63.5,20.41165665,29.48350405,12.0,14.0,Sporting Group,0.2,0.6,0.8,0.6,0.6,Gentle,Loyal,Trainable
+"Alert, Eager, Intelligent",96.0,48.26,63.5,12.70058636,27.2155422,12.0,15.0,Foundation Stock Service,0.2,0.6,0.8,0.4,0.6,Alert,Eager,Intelligent
+"Loyal, Alert, Calm",140.0,25.4,58.42,4.535923700000001,24.947580350000003,13.0,18.0,Non-Sporting Group,0.2,0.2,0.8,0.6,0.6,Loyal,Alert,Calm
+"Affectionate, Intelligent, Active",96.0,53.34,58.42,18.1436948,24.947580350000003,10.0,12.0,Foundation Stock Service,0.4,0.6,0.8,0.2,0.4,Affectionate,Intelligent,Active
+"Affectionate, Sprightly, Tomboyish",10.0,17.78,20.32,3.17514659,3.17514659,11.0,15.0,Toy Group,1.0,0.2,0.6,0.2,0.8,Affectionate,Sprightly,Tomboyish
